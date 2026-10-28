@@ -2,8 +2,8 @@ class Sum
 {
     public static void main(String[] args) 
     {
-        int a = 10;
-        int b = 20;
+        int a = 12222;
+        int b = 1000;
         int sum = a + b;
         System.out.println("The sum of " + a + " and " + b + " is: " + sum);
     }
